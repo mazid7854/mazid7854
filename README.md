@@ -1,7 +1,7 @@
 # 💫 About Me:
  I am a full stack developer with expertise in MERN stack. <br> I can build web applications that are scalable, responsive, and user-friendly, using MongoDB, Express, React, and Node.js, as well as HTML, CSS, JavaScript, jQuery, tailwindCss, Bootstrap, and RESTful APIs.<br>I have applied 
     best practices such as authentication, authorization, data validation, error handling, testing, and deployment.<br> I am always curious to explore new frameworks and libraries and to tackle challenging web problems.
-🔭 I’m currently working on full stack application.<br>👯 I’m looking to collaborate on web development-related things.<br>🌱 I’m currently learning reatNativ.<br>💬 Ask me about web development.<br>
+🔭 I’m currently working on full stack application.<br>👯 I’m looking to collaborate on web development-related things.<br>🌱 I’m currently learning reactNativ.<br>💬 Ask me about web development.<br>
 
 
 ## 🌐 Socials:
